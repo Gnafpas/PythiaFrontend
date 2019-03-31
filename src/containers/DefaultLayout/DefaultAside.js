@@ -72,7 +72,7 @@ class DefaultAside extends Component {
                 <div className="avatar float-right">
                   <img className="img-avatar" src="assets/img/avatars/7.jpg" alt="admin@bootstrapmaster.com"></img>
                 </div>
-                <div>Meeting with <strong>Lucas</strong>
+                <div>Meeting with <strong>Lucasssssssss</strong>
                   <Button block color="primary">Primary</Button></div>
                 <small className="text-muted mr-3">
                   <i className="icon-calendar"></i>&nbsp; 1 - 3pm
